@@ -50,5 +50,32 @@
                 "style": "secondary"
             }
         ]
+    },
+    "footer": {
+        "colors": "colors-a",
+        "width": "wide",
+        "title": "lorem-ipsum",
+        "isTitleVisible": false,
+        "logo": {
+            "elementId": "",
+            "altText": "lorem-ipsum",
+            "caption": "lorem-ipsum",
+            "opacity": 100,
+            "type": "ImageBlock"
+        },
+        "text": "## Lorem ipsum\n\nLorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n- Lorem ipsum\n- dolor sit amet",
+        "contacts": {
+            "phoneNumber": "lorem-ipsum",
+            "phoneAltText": "lorem-ipsum",
+            "email": "lorem-ipsum",
+            "emailAltText": "lorem-ipsum",
+            "address": "lorem-ipsum",
+            "addressAltText": "lorem-ipsum",
+            "elementId": "lorem-ipsum"
+        },
+        "copyrightText": "## Lorem ipsum\n\nLorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n- Lorem ipsum\n- dolor sit amet",
+        "primaryLinks": [],
+        "socialLinks": [],
+        "legalLinks": []
     }
 }
